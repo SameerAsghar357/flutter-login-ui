@@ -9,7 +9,7 @@ A clean and simple login screen built using Flutter. This beginner-friendly proj
 - Basic structure of a login screen
 - Clear and responsive UI
 
-- 📸 Screenshot (Optional)
+- 📸 Screenshot
 - ![flutter_login_ui](https://github.com/user-attachments/assets/067f8b11-99a2-4a14-9320-3e7d52fbf6e6)
 
 ---
