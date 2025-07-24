@@ -199,7 +199,7 @@ class HomePage extends StatelessWidget {
                 ),
               ),
             ],
-          ).animate().fadeIn(duration: 5.seconds),
+          ),
         ),
       ),
     );
